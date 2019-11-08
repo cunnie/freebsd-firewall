@@ -36,3 +36,7 @@ nogroup:*:65533:
 nobody:*:65534:
 cunnie:*:1001:
 git_daemon:*:964:
+_tss:*:601:
+messagebus:*:556:
+avahi:*:558:
+cups:*:193:
