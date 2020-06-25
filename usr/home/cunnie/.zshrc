@@ -10,4 +10,3 @@ zstyle :compinstall filename '/home/cunnie/.zshrc'
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
-export EDITOR=nvim
