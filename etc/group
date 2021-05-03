@@ -1,4 +1,4 @@
-# $FreeBSD: releng/12.2/etc/group 359447 2020-03-30 17:07:05Z brooks $
+# $FreeBSD$
 #
 wheel:*:0:root,cunnie,pcengines
 daemon:*:1:
