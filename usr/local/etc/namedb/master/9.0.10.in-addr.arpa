@@ -1,0 +1,47 @@
+$TTL 3h
+@ SOA vain.nono.io. yoyo.nono.io. 42 1d 12h 1w 3h
+        ; Serial, Refresh, Retry, Expire, Neg. cache TTL
+
+        NS      vain.nono.io.
+2	PTR	ubi-sw-8.nono.io.
+3	PTR	ubi-ap-0.nono.io.
+4	PTR	ubi-ap-1.nono.io.
+5	PTR	ubi-sw-24.nono.io.
+6	PTR	unifi.nono.io.
+7	PTR	ubi-ap-nano.nono.io.
+20	PTR	vain.nono.io.
+30	PTR	tara.nono.io.
+41	PTR	esxi-1.nono.io.
+42	PTR	esxi-2.nono.io.
+46	PTR	kvm.esxi-1.nono.io.
+47	PTR	kvm.esxi-2.nono.io.
+50	PTR	hp1536.nono.io.
+61	PTR	pixel-1.nono.io.
+67	PTR	vcenter-67.nono.io.
+70	PTR	vcenter-70.nono.io.
+80	PTR	nas.nono.io.
+81	PTR	kvm.nas.nono.io.
+90	PTR	liz.nono.io.
+97	PTR	xenial.nono.io.
+98	PTR	aasfmarin.nono.io.
+99	PTR	bionic.nono.io.
+100	PTR	w10.nono.io.
+102	PTR	centos.nono.io.
+103	PTR	ubuntu.nono.io.
+104	PTR	fbsd.nono.io.
+105	PTR	vcenter.nono.io.
+106	PTR	fedora.nono.io.
+107	PTR	minikube.nono.io.
+109	PTR	nesxi-template.nono.io.
+110	PTR	nesxi-0.nono.io.
+111	PTR	nesxi-1.nono.io.
+112	PTR	nesxi-2.nono.io.
+113	PTR	nesxi-3.nono.io.
+120	PTR	pi-enet.nono.io.
+151	PTR	usb-c.nono.io.
+160	PTR	tetra.nono.io.
+171	PTR	roomba.nono.io.
+173	PTR	withings-bpm.nono.io.
+174	PTR	withings-scale.nono.io.
+175	PTR	withings-thermo.nono.io.
+176	PTR	iphone-se.nono.io.
