@@ -1,5 +1,5 @@
 $TTL 3h
-@ SOA vain.nono.io. yoyo.nono.io. 42 1d 12h 1w 3h
+@ SOA vain.nono.io. yoyo.nono.io. 1637954989 1d 12h 1w 3h
         ; Serial, Refresh, Retry, Expire, Neg. cache TTL
 
         NS      vain.nono.io.
@@ -9,6 +9,9 @@ $TTL 3h
 5	PTR	ubi-sw-24.nono.io.
 6	PTR	unifi.nono.io.
 7	PTR	ubi-ap-nano.nono.io.
+8	PTR	ubi-usw-flex-xg.nono.io.
+10	PTR	atom.nono.io.
+11	PTR	kvm.atom.nono.io.
 20	PTR	vain.nono.io.
 30	PTR	tara.nono.io.
 41	PTR	esxi-1.nono.io.
@@ -16,12 +19,14 @@ $TTL 3h
 46	PTR	kvm.esxi-1.nono.io.
 47	PTR	kvm.esxi-2.nono.io.
 50	PTR	hp1536.nono.io.
+60	PTR	deca.nono.io.
 61	PTR	pixel-1.nono.io.
 67	PTR	vcenter-67.nono.io.
 70	PTR	vcenter-70.nono.io.
 80	PTR	nas.nono.io.
 81	PTR	kvm.nas.nono.io.
 90	PTR	liz.nono.io.
+96	PTR	impish.nono.io.
 97	PTR	xenial.nono.io.
 98	PTR	aasfmarin.nono.io.
 99	PTR	bionic.nono.io.
@@ -32,6 +37,7 @@ $TTL 3h
 105	PTR	vcenter.nono.io.
 106	PTR	fedora.nono.io.
 107	PTR	minikube.nono.io.
+108	PTR	focal.nono.io.
 109	PTR	nesxi-template.nono.io.
 110	PTR	nesxi-0.nono.io.
 111	PTR	nesxi-1.nono.io.
