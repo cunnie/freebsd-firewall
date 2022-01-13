@@ -1,5 +1,5 @@
 $TTL 3h
-@ SOA vain.nono.io. yoyo.nono.io. 1637954989 1d 12h 1w 3h
+@ SOA vain.nono.io. yoyo.nono.io. 1642083371 1d 12h 1w 3h
         ; Serial, Refresh, Retry, Expire, Neg. cache TTL
 
         NS      vain.nono.io.
@@ -47,6 +47,7 @@ $TTL 3h
 151	PTR	usb-c.nono.io.
 160	PTR	tetra.nono.io.
 171	PTR	roomba.nono.io.
+172	PTR	iphone-7.nono.io.
 173	PTR	withings-bpm.nono.io.
 174	PTR	withings-scale.nono.io.
 175	PTR	withings-thermo.nono.io.
