@@ -1,5 +1,5 @@
 $TTL 3h
-@ SOA vain.nono.io. yoyo.nono.io. 1642083371 1d 12h 1w 3h
+@ SOA vain.nono.io. yoyo.nono.io. 1649644699 1d 12h 1w 3h
         ; Serial, Refresh, Retry, Expire, Neg. cache TTL
 
         NS      vain.nono.io.
@@ -14,6 +14,7 @@ $TTL 3h
 11	PTR	kvm.atom.nono.io.
 20	PTR	vain.nono.io.
 30	PTR	tara.nono.io.
+31	PTR	morgoth.nono.io.
 41	PTR	esxi-1.nono.io.
 42	PTR	esxi-2.nono.io.
 46	PTR	kvm.esxi-1.nono.io.
@@ -43,6 +44,7 @@ $TTL 3h
 111	PTR	nesxi-1.nono.io.
 112	PTR	nesxi-2.nono.io.
 113	PTR	nesxi-3.nono.io.
+114	PTR	jammy.nono.io.
 120	PTR	pi-enet.nono.io.
 151	PTR	usb-c.nono.io.
 160	PTR	tetra.nono.io.
@@ -52,3 +54,5 @@ $TTL 3h
 174	PTR	withings-scale.nono.io.
 175	PTR	withings-thermo.nono.io.
 176	PTR	iphone-se.nono.io.
+177	PTR	iphone-se-2022.nono.io.
+178	PTR	iphone-13.nono.io.
