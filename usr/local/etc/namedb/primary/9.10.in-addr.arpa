@@ -1,5 +1,5 @@
 $TTL 3h
-@ SOA atom.nono.io. yoyo.nono.io. 1680137796 1d 12h 1w 3h
+@ SOA mordor.nono.io. yoyo.nono.io. 1689367755 1d 12h 1w 3h
         ; Serial, Refresh, Retry, Expire, Neg. cache TTL
 
         NS      atom.nono.io.
@@ -14,11 +14,14 @@ $TTL 3h
 9.9	PTR	ng-sw-0.nono.io.
 10.9	PTR	atom.nono.io.
 11.9	PTR	kvm.atom.nono.io.
+12.9	PTR	mordor.nono.io.
 20.9	PTR	vain.nono.io.
 30.9	PTR	tara.nono.io.
 31.9	PTR	morgoth.nono.io.
+40.9	PTR	esxi-0.nono.io.
 41.9	PTR	esxi-1.nono.io.
 42.9	PTR	esxi-2.nono.io.
+45.9	PTR	kvm.esxi-0.nono.io.
 46.9	PTR	kvm.esxi-1.nono.io.
 47.9	PTR	kvm.esxi-2.nono.io.
 50.9	PTR	hp1536.nono.io.
@@ -26,7 +29,7 @@ $TTL 3h
 80.9	PTR	nas.nono.io.
 81.9	PTR	kvm.nas.nono.io.
 90.9	PTR	liz.nono.io.
-96.9	PTR	impish.nono.io.
+96.9	PTR	lunar.nono.io.
 97.9	PTR	xenial.nono.io.
 99.9	PTR	bionic.nono.io.
 103.9	PTR	ubuntu.nono.io.
@@ -49,6 +52,8 @@ $TTL 3h
 128.9	PTR	vcenter-80.nono.io.
 130.9	PTR	edge-0.nono.io.
 131.9	PTR	edge-1.nono.io.
+132.9	PTR	edge-2.nono.io.
+133.9	PTR	edge-3.nono.io.
 151.9	PTR	usb-c.nono.io.
 160.9	PTR	tetra.nono.io.
 161.9	PTR	mordred.nono.io.
