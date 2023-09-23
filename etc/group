@@ -44,3 +44,4 @@ polkitd:*:565:
 avahi:*:558:
 cups:*:193:
 colord:*:970:
+squid:*:100:
