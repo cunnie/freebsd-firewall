@@ -1,5 +1,5 @@
 $TTL 3h
-@ SOA mordor.nono.io. yoyo.nono.io. 1689367755 1d 12h 1w 3h
+@ SOA mordor.nono.io. yoyo.nono.io. 1696897608 1d 12h 1w 3h
         ; Serial, Refresh, Retry, Expire, Neg. cache TTL
 
         NS      atom.nono.io.
@@ -12,11 +12,7 @@ $TTL 3h
 7.9	PTR	ubi-ap-nano.nono.io.
 8.9	PTR	ubi-usw-flex-xg.nono.io.
 9.9	PTR	ng-sw-0.nono.io.
-10.9	PTR	atom.nono.io.
-11.9	PTR	kvm.atom.nono.io.
 12.9	PTR	mordor.nono.io.
-20.9	PTR	vain.nono.io.
-30.9	PTR	tara.nono.io.
 31.9	PTR	morgoth.nono.io.
 40.9	PTR	esxi-0.nono.io.
 41.9	PTR	esxi-1.nono.io.
@@ -25,16 +21,13 @@ $TTL 3h
 46.9	PTR	kvm.esxi-1.nono.io.
 47.9	PTR	kvm.esxi-2.nono.io.
 50.9	PTR	hp1536.nono.io.
-70.9	PTR	vcenter-70.nono.io.
 80.9	PTR	nas.nono.io.
 81.9	PTR	kvm.nas.nono.io.
 90.9	PTR	liz.nono.io.
 96.9	PTR	lunar.nono.io.
-97.9	PTR	xenial.nono.io.
 99.9	PTR	bionic.nono.io.
 103.9	PTR	ubuntu.nono.io.
 104.9	PTR	fbsd.nono.io.
-105.9	PTR	vcenter.nono.io.
 107.9	PTR	minikube.nono.io.
 108.9	PTR	focal.nono.io.
 109.9	PTR	nesxi-template.nono.io.
@@ -45,7 +38,6 @@ $TTL 3h
 114.9	PTR	jammy.nono.io.
 115.9	PTR	w22.nono.io.
 116.9	PTR	w19.nono.io.
-117.9	PTR	validator.nono.io.
 118.9	PTR	fed.nono.io.
 119.9	PTR	w11.nono.io.
 120.9	PTR	pi-enet.nono.io.
@@ -55,10 +47,9 @@ $TTL 3h
 132.9	PTR	edge-2.nono.io.
 133.9	PTR	edge-3.nono.io.
 151.9	PTR	usb-c.nono.io.
-160.9	PTR	tetra.nono.io.
 161.9	PTR	mordred.nono.io.
 171.9	PTR	roomba.nono.io.
-172.9	PTR	iphone-7.nono.io.
+172.9	PTR	iphone-15.nono.io.
 173.9	PTR	withings-bpm.nono.io.
 174.9	PTR	withings-scale.nono.io.
 175.9	PTR	withings-thermo.nono.io.
