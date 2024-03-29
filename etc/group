@@ -1,5 +1,3 @@
-# $FreeBSD$
-#
 wheel:*:0:root,cunnie
 daemon:*:1:
 kmem:*:2:
@@ -31,6 +29,7 @@ dialer:*:68:
 network:*:69:
 audit:*:77:
 www:*:80:
+u2f:*:116:
 ntpd:*:123:
 _ypldap:*:160:
 hast:*:845:
