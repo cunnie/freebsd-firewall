@@ -1,18 +1,14 @@
 $TTL 3h
-@ SOA mordor.nono.io. yoyo.nono.io. 1696897608 1d 12h 1w 3h
+@ SOA mordor.nono.io. yoyo.nono.io. 1747827483 1d 12h 1w 3h
         ; Serial, Refresh, Retry, Expire, Neg. cache TTL
 
         NS      atom.nono.io.
-250.2	PTR	bosh-vsphere-guest.nono.io.
-2.9	PTR	ubi-sw-8.nono.io.
-3.9	PTR	ubi-ap-0.nono.io.
-4.9	PTR	ubi-ap-1.nono.io.
+240.2	PTR	runner.nono.io.
+4.9	PTR	ubi-ap.nono.io.
 5.9	PTR	ubi-sw-24.nono.io.
 6.9	PTR	unifi.nono.io.
-7.9	PTR	ubi-ap-nano.nono.io.
-8.9	PTR	ubi-usw-flex-xg.nono.io.
-9.9	PTR	ng-sw-0.nono.io.
-12.9	PTR	mordor.nono.io.
+10.9	PTR	avalon.nono.io.
+30.9	PTR	melkor.nono.io.
 31.9	PTR	morgoth.nono.io.
 40.9	PTR	esxi-0.nono.io.
 41.9	PTR	esxi-1.nono.io.
@@ -21,31 +17,16 @@ $TTL 3h
 46.9	PTR	kvm.esxi-1.nono.io.
 47.9	PTR	kvm.esxi-2.nono.io.
 50.9	PTR	hp1536.nono.io.
-80.9	PTR	nas.nono.io.
+60.9	PTR	nuada.nono.io.
+80.9	PTR	s3.nono.io.
 81.9	PTR	kvm.nas.nono.io.
 90.9	PTR	liz.nono.io.
-96.9	PTR	lunar.nono.io.
-99.9	PTR	bionic.nono.io.
-103.9	PTR	ubuntu.nono.io.
+95.9	PTR	noble.nono.io.
+101.9	PTR	centos.nono.io.
+102.9	PTR	riscv.nono.io.
 104.9	PTR	fbsd.nono.io.
-107.9	PTR	minikube.nono.io.
-108.9	PTR	focal.nono.io.
-109.9	PTR	nesxi-template.nono.io.
-110.9	PTR	nesxi-0.nono.io.
-111.9	PTR	nesxi-1.nono.io.
-112.9	PTR	nesxi-2.nono.io.
-113.9	PTR	nesxi-3.nono.io.
-114.9	PTR	jammy.nono.io.
-115.9	PTR	w22.nono.io.
-116.9	PTR	w19.nono.io.
 118.9	PTR	fed.nono.io.
-119.9	PTR	w11.nono.io.
-120.9	PTR	pi-enet.nono.io.
 128.9	PTR	vcenter-80.nono.io.
-130.9	PTR	edge-0.nono.io.
-131.9	PTR	edge-1.nono.io.
-132.9	PTR	edge-2.nono.io.
-133.9	PTR	edge-3.nono.io.
 151.9	PTR	usb-c.nono.io.
 161.9	PTR	mordred.nono.io.
 171.9	PTR	roomba.nono.io.
@@ -54,12 +35,3 @@ $TTL 3h
 174.9	PTR	withings-scale.nono.io.
 175.9	PTR	withings-thermo.nono.io.
 178.9	PTR	iphone-13.nono.io.
-179.9	PTR	nsx.nono.io.
-10.50	PTR	tier-0.nono.io.
-10.250	PTR	haproxy.cf.nono.io.
-11.250	PTR	router.cf.nono.io.
-10.251	PTR	om.tas.nono.io.
-11.251	PTR	bosh.tas.nono.io.
-12.251	PTR	tas-apps.nono.io.
-13.251	PTR	ssh.tas-apps.nono.io.
-14.251	PTR	tcp.tas-apps.nono.io.
