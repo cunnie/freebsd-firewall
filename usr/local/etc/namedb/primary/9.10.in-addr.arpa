@@ -1,34 +1,26 @@
 $TTL 3h
-@ SOA mordor.nono.io. yoyo.nono.io. 1747827483 1d 12h 1w 3h
+@ SOA avalon.nono.io. yoyo.nono.io. 1754670655 1d 12h 1w 3h
         ; Serial, Refresh, Retry, Expire, Neg. cache TTL
 
         NS      atom.nono.io.
 240.2	PTR	runner.nono.io.
+3.9	PTR	ubi-sw-8.nono.io.
 4.9	PTR	ubi-ap.nono.io.
 5.9	PTR	ubi-sw-24.nono.io.
 6.9	PTR	unifi.nono.io.
 10.9	PTR	avalon.nono.io.
 30.9	PTR	melkor.nono.io.
-31.9	PTR	morgoth.nono.io.
-40.9	PTR	esxi-0.nono.io.
-41.9	PTR	esxi-1.nono.io.
-42.9	PTR	esxi-2.nono.io.
-45.9	PTR	kvm.esxi-0.nono.io.
-46.9	PTR	kvm.esxi-1.nono.io.
-47.9	PTR	kvm.esxi-2.nono.io.
+42.9	PTR	pve.nono.io.
+47.9	PTR	kvm.pve.nono.io.
 50.9	PTR	hp1536.nono.io.
 60.9	PTR	nuada.nono.io.
-80.9	PTR	s3.nono.io.
-81.9	PTR	kvm.nas.nono.io.
 90.9	PTR	liz.nono.io.
 95.9	PTR	noble.nono.io.
 101.9	PTR	centos.nono.io.
 102.9	PTR	riscv.nono.io.
 104.9	PTR	fbsd.nono.io.
 118.9	PTR	fed.nono.io.
-128.9	PTR	vcenter-80.nono.io.
 151.9	PTR	usb-c.nono.io.
-161.9	PTR	mordred.nono.io.
 171.9	PTR	roomba.nono.io.
 172.9	PTR	iphone-15.nono.io.
 173.9	PTR	withings-bpm.nono.io.

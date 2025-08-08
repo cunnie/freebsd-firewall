@@ -1,26 +1,21 @@
 $TTL 3h
-@ SOA mordor.nono.io. yoyo.nono.io. 1747827505 1d 12h 1w 3h
+@ SOA avalon.nono.io. yoyo.nono.io. 1754670664 1d 12h 1w 3h
         ; Serial, Refresh, Retry, Expire, Neg. cache TTL
 
         NS      atom.nono.io.
-8.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	esxi-0.nono.io.
-9.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	esxi-1.nono.io.
-a.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	esxi-2.nono.io.
-0.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	nas.nono.io.
-0.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	s3.nono.io.
 8.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	fbsd.nono.io.
-0.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	vcenter-80.nono.io.
 f.5.0.0.0.0.e.f.f.f.0.0.0.0.0.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	noble.nono.io.
 5.6.0.0.0.0.e.f.f.f.0.0.0.0.0.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	centos.nono.io.
 6.7.0.0.0.0.e.f.f.f.0.0.0.0.0.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	fed.nono.io.
-a.3.e.0.4.7.a.e.9.6.0.9.d.7.0.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	morgoth-ipv6.nono.io.
 2.6.5.e.9.d.d.c.3.b.a.6.c.2.4.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	nuada.nono.io.
 5.7.3.5.e.d.7.2.1.2.f.8.b.a.8.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	melkor.nono.io.
-1.c.9.4.3.a.1.c.e.a.7.3.b.d.8.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	morgoth.nono.io.
-c.c.3.1.6.7.5.1.5.b.6.9.6.4.c.0.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	mordred.nono.io.
 e.e.a.d.7.4.e.f.f.f.4.7.f.1.2.1.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	hp1536.nono.io.
-9.6.d.e.c.d.e.f.f.f.f.e.c.e.e.3.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	kvm.esxi-2.nono.io.
+a.b.7.d.d.a.e.f.f.f.9.2.8.e.a.1.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	ubi-sw-24.nono.io.
+6.6.b.e.c.d.e.f.f.f.f.e.c.e.e.3.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	pve.nono.io.
+9.6.d.e.c.d.e.f.f.f.f.e.c.e.e.3.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	kvm.pve.nono.io.
+f.9.c.e.e.2.e.f.f.f.8.f.3.6.c.6.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	ubi-sw-8.nono.io.
 a.7.b.f.2.9.e.f.f.f.5.d.3.b.2.7.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	riscv.nono.io.
+2.c.8.7.c.d.e.f.f.f.0.2.a.8.a.7.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	ubi-ap.nono.io.
 b.1.8.1.d.3.e.f.f.f.b.e.f.f.e.b.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	roomba.nono.io.
 d.1.f.f.1.c.2.2.8.2.d.e.3.6.5.d.0.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	liz.nono.io.
 8.f.2.0.0.0.e.f.f.f.0.0.0.0.0.0.1.f.9.6.0.0.1.0.6.4.6.0.1.0.6.2.ip6.arpa.	PTR	runner.nono.io.
