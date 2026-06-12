@@ -1,5 +1,5 @@
 $TTL 3h
-@ SOA avalon.nono.io. yoyo.nono.io. 1778239292 1d 12h 1w 3h
+@ SOA avalon.nono.io. yoyo.nono.io. 1781233333 1d 12h 1w 3h
         ; Serial, Refresh, Retry, Expire, Neg. cache TTL
 
         NS      avalon.nono.io.
@@ -16,6 +16,7 @@ $TTL 3h
 50.9	PTR	hp1536.nono.io.
 60.9	PTR	nuada.nono.io.
 70.9	PTR	bondi.nono.io.
+80.9	PTR	nas.nono.io.
 90.9	PTR	liz.nono.io.
 95.9	PTR	noble.nono.io.
 118.9	PTR	fed.nono.io.
